@@ -264,3 +264,13 @@
     background-size: cover;
     min-height: 160px;
 }
+
+.btn-success{
+    background-color: rgba(58, 111, 103, 0.92);
+    border-color: #1f6b57;
+}
+
+.right-button{
+    right: 0;
+    position: absolute;
+}
