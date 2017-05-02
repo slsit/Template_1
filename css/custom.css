@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
     font-family: 'aller_lightregular';
     src: url('http://www.ortheme.com/wrap/passion/css/aller_lt/aller_lt-webfont.eot');
     src: url('http://www.ortheme.com/wrap/passion/css/aller_lt/aller_lt-webfont.eot?#iefix') format('embedded-opentype'), url('http://www.ortheme.com/wrap/passion/css/aller_lt/aller_lt-webfont.woff') format('woff'), url('http://www.ortheme.com/wrap/passion/css/aller_lt/aller_lt-webfont.ttf') format('truetype'), url('http://www.ortheme.com/wrap/passion/css/aller_lt/aller_lt-webfont.svg#aller_lightregular') format('svg');
@@ -12,7 +12,7 @@
     src: url('http://www.ortheme.com/wrap/passion/css/aller_rg/aller_rg-webfont.eot?#iefix') format('embedded-opentype'), url('http://www.ortheme.com/wrap/passion/css/aller_rg/aller_rg-webfont.woff') format('woff'), url('http://www.ortheme.com/wrap/passion/css/aller_rg/aller_rg-webfont.ttf') format('truetype'), url('http://www.ortheme.com/wrap/passion/css/aller_rg/aller_rg-webfont.svg#allerregular') format('svg');
     font-weight: normal;
     font-style: normal;
-}
+}*/
 
 html {
     font-size: 80%
@@ -344,7 +344,7 @@ html[xmlns] .slides {
 }
 
 .flex-direction-nav a {
-    background: url(http://www.ortheme.com/wrap/passion/img/bg_direction_nav.png) no-repeat scroll 0 0 rgba(48, 52, 65, 0.09);
+    /*background: url(http://www.ortheme.com/wrap/passion/img/bg_direction_nav.png) no-repeat scroll 0 0 rgba(48, 52, 65, 0.09);*/
     cursor: pointer;
     display: block;
     height: 47px;
@@ -578,7 +578,7 @@ html[xmlns] .slides {
 }
 
 .portfolioContainer .hexagon a span.mask {
-    background: url("http://www.ortheme.com/wrap/passion/img/hexagon_mask_2.png") no-repeat;
+    /*background: url("http://www.ortheme.com/wrap/passion/img/hexagon_mask_2.png") no-repeat;*/
 }
 
 .portfolioContainer .hexagon {
@@ -765,7 +765,7 @@ html[xmlns] .slides {
     top: -50px;
     left: -50px;
     z-index: 2;
-    background: url("http://www.ortheme.com/wrap/passion/img/hexagon_mask.png") no-repeat;
+  /*  background: url("http://www.ortheme.com/wrap/passion/img/hexagon_mask.png") no-repeat;*/
     -webkit-transition: -webkit-transform 300ms ease-out;
     -moz-transition: -moz-transform 300ms ease-out;
     -o-transition: -o-transform 300ms ease-out;
@@ -825,7 +825,7 @@ html[xmlns] .slides {
 }
 
 div.arrow {
-    background: url("http://www.ortheme.com/wrap/passion/img/arrow.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    /*background: url("http://www.ortheme.com/wrap/passion/img/arrow.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);*/
     height: 9px;
     margin: -8px 0 0 17px;
     position: relative;
@@ -1405,13 +1405,13 @@ footer a {
     }
 }
 
-@font-face {
+/*@font-face {
     font-family: 'any-old-icon';
     src: url('http://www.ortheme.com/wrap/passion/css/anyoldicon/any-old-icon.eot');
     src: url('http://www.ortheme.com/wrap/passion/css/anyoldicon/any-old-icon.eot?#iefix') format('embedded-opentype'), url('http://www.ortheme.com/wrap/passion/css/anyoldicon/any-old-icon.woff') format('woff'), url('http://www.ortheme.com/wrap/passion/css/anyoldicon/any-old-icon.ttf') format('truetype'), url('http://www.ortheme.com/wrap/passion/css/anyoldicon/any-old-icon.svg#any-old-icon') format('svg');
     font-weight: normal;
     font-style: normal;
-}
+}*/
 
 .cbp-ig-icon {
     padding: 40px 0 20px;

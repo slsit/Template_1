@@ -6,8 +6,6 @@
 }
 
 .news-header{
-    width: 27.9vw;
-    height: 30vw;
     background-color: rgba(43, 67, 84, 0.65)
 }
 
@@ -274,3 +272,5 @@
     right: 0;
     position: absolute;
 }
+
+
