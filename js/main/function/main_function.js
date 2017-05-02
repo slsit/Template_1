@@ -3,6 +3,11 @@
  */
 
 function setSizeNewsBlock () {
-    $(".news-header").css("width", window.screen.width*0.279);
-    $(".news-header").css("height", window.screen.availWidth*0.28);
+    alert(window.innerWidth)
+    alert(window.innerHeight)
+    $(".news-header").css("width", document.documentElement.clientWidth*0.278);
+    $(".news-header").css("height", document.documentElement.clientHeight*0.6);
+
+    /*$(".news-header").css("width", document.documentElement.clientWidth*0.278);
+     $(".news-header").css("height", document.documentElement.clientHeight*0.68);*/
 }
