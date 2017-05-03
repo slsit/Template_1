@@ -257,10 +257,9 @@
 }
 
 .main-block-header{
-    background-image: url("../img/slider/banner-3.jpg");
-    padding: 8% 0% 5% 2%;
-    background-size: cover;
-    min-height: 160px;
+    background-image: url("../img/slider/Banner-site-2016-6.jpg");
+    /*padding: 8% 0% 5% 2%;*/
+    background-size: contain;
 }
 
 .btn-success{
