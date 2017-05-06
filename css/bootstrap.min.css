@@ -3975,7 +3975,8 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
 }
 
 .navbar-header:after {
-    clear: both
+    clear: both;
+    width: 40rem;
 }
 
 .navbar-header:before, .navbar-header:after {

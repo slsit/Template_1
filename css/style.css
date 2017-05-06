@@ -272,4 +272,12 @@
     position: absolute;
 }
 
+.text-grey{
+    color: #b6c8e0;
+    font-size: 1.2rem;
+}
 
+.text-grey-2{
+    color:rgb(185, 186, 222);
+    font-size: 1.4rem;
+}
