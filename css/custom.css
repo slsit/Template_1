@@ -117,7 +117,7 @@ h1 small {
 
 .logo {
     /*background: url("http://www.ortheme.com/wrap/passion/img/passion.png") no-repeat scroll 0 0 transparent;*/
-    background: url("../img/big-logo.png") no-repeat scroll 0 0 transparent;
+    /*background: url("../img/big-logo.png") no-repeat scroll 0 0 transparent;*/
     height: 80%;
     text-indent: -9999px;
     width: 210%;
@@ -203,7 +203,8 @@ h1 small {
 }
 
 .ha-header {
-    background: rgba(48, 52, 65, 0.73) url("../img/yzor_header.png") no-repeat;
+    /*background: rgba(48, 52, 65, 0.73) url("../img/yzor_header.png") no-repeat;*/
+    background: rgba(48, 52, 65, 0.73);
     border-bottom: 2px solid #4A4F5E;
     top: 0;
     left: 0;
@@ -249,7 +250,7 @@ h1 small {
 }
 
 .ha-header-small .logo {
-    background: url("../img/big-logo.png") no-repeat scroll 0 0 transparent;
+    /*background: url("../img/big-logo.png") no-repeat scroll 0 0 transparent;*/
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
